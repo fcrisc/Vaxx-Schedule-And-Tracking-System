@@ -7,5 +7,5 @@ Manage Appointment (Admin)(Patient)
 Manage Patient (Admin)
 Search Patient detail (Admin)
 Add new role (Doctor)
-Add two way authentication to the system
+Add Two way authentication
 
